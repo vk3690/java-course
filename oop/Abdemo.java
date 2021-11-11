@@ -2,7 +2,7 @@ public class Abdemo
 {
         public static void main(String[] args)
         {
-            phone3 obj1=new phone3();
+            phone1 obj1=new phone3();
             obj1.wifi();
             obj1.camera();
             obj1.move();
